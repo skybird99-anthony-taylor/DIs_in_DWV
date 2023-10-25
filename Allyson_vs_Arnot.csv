@@ -1,0 +1,221 @@
+DWV_strain,Dataset,BP,RI,Mutation_type,Lineage,DVG_read_count,Which_program,WT_virus_read_count,percent_of_the_WT,Prez_in_multiple_datasets,Unique_to_dataset,Seen_in_P1,pReal,Genomic_location
+DWV-A,Allyson,336,339,Insertion_forward,C,5,DItector,74800,0.00007,No,Yes,No,0,5' UTR
+DWV-A,Allyson,4140,4143,Deletion_reverse,K,5,ViReMa,57922,0.00009,No,Yes,No,0,VP2
+DWV-A,Allyson,4520,1744,Insertion_forward,C,87,DItector,74800,0.00116,No,No,No,0,All capsid proteins
+DWV-A,Allyson,4520,1744,Insertion_forward,E,18,DItector,47443,0.00038,No,No,No,0,All capsid proteins
+DWV-A,Allyson,4520,1744,Insertion_forward,K,19,DItector,57922,0.00033,No,No,Yes,0,All capsid proteins
+DWV-A,Allyson,4520,1744,Insertion_forward,L,84,DItector,96601,0.00087,No,No,Yes,0,All capsid proteins
+DWV-A,Allyson,4520,1744,Insertion_forward,M,30,DItector,55987,0.00054,No,No,No,0,All capsid proteins
+DWV-A,Allyson,6930,6968,Insertion_forward,L,10,DItector,96601,0.00010,Yes,No,No,0,Uncharacterized middle region
+DWV-A,Allyson,6930,6968,Insertion_forward,P,7,DItector,56904,0.00012,Yes,No,No,0,Uncharacterized middle region
+DWV-A,Allyson,6930,6968,Deletion_forward,C,15,DItector,74800,0.00020,Yes,Yes,No,0,Everything but the 5' and 3' UTRs
+DWV-B,Allyson,345,350,Deletion_forward,C,5,DItector,79114,0.00006,No,No,No,0,5' UTR
+DWV-B,Allyson,349,1101,Deletion_forward,C,28,DItector,79114,0.00035,No,No,No,0,5' UTR
+DWV-B,Allyson,4787,4787,Insertion_reverse,C,17,ViReMa,79114,0.00021,No,No,No,0.78,Uncharacterized middle region
+DWV-B,Allyson,272,274,Deletion_reverse,C,1188,ViReMa,79114,0.01502,No,No,Yes,0,5' UTR
+DWV-B,Allyson,272,274,Deletion_reverse,E,506,ViReMa,81015,0.00625,No,No,Yes,0,5' UTR
+DWV-B,Allyson,349,1101,Deletion_forward,E,16,DItector,81015,0.00020,No,No,Yes,0,5' UTR
+DWV-B,Allyson,272,274,Deletion_reverse,J,1299,ViReMa,52492,0.02475,No,No,Yes,0,5' UTR
+DWV-B,Allyson,345,350,Deletion_forward,J,13,DItector,52492,0.00025,No,No,Yes,0,5' UTR
+DWV-B,Allyson,3826,5252,Insertion_forward,J,24,DItector,52492,0.00046,No,No,Yes,0,"VP2, Helicase"
+DWV-B,Allyson,8341,8341,Insertion_reverse,J,122,ViReMa,52492,0.00232,No,Yes,Yes,0.67,3C Pro/RdRp
+DWV-B,Allyson,272,274,Deletion_reverse,K,2444,ViReMa,88310,0.02768,No,No,Yes,0,5' UTR
+DWV-B,Allyson,345,350,Deletion_forward,K,18,DItector,88310,0.00020,No,No,Yes,0,5' UTR
+DWV-B,Allyson,3826,5252,Insertion_forward,K,15,DItector,88310,0.00017,No,No,Yes,0,"VP2, Helicase"
+DWV-B,Allyson,4787,4787,Insertion_reverse,K,20,ViReMa,88310,0.00023,No,No,Yes,0.7,Uncharacterized middle region
+DWV-B,Allyson,272,274,Deletion_reverse,L,3561,ViReMa,86771,0.04104,No,No,Yes,0,5' UTR
+DWV-B,Allyson,345,350,Deletion_forward,L,11,DItector,86771,0.00013,No,No,Yes,0,5' UTR
+DWV-B,Allyson,3826,5252,Insertion_forward,L,71,DItector,86771,0.00082,No,No,Yes,0.596246369,"VP2, Helicase"
+DWV-B,Allyson,4787,4787,Insertion_reverse,L,28,ViReMa,86771,0.00032,No,No,Yes,0.712,Uncharacterized middle region
+DWV-B,Allyson,342,337,Deletion_forward,L,15,DItector,86771,0.00017,No,Yes,No,0,5' UTR
+DWV-B,Allyson,3398,3401,Deletion_reverse,L,6,ViReMa,86771,0.00007,No,Yes,No,0,VP1
+DWV-B,Allyson,3611,3614,Deletion_reverse,L,5,ViReMa,86771,0.00006,No,Yes,No,0.568,VP1
+DWV-B,Allyson,272,274,Deletion_reverse,M,2571,ViReMa,96843,0.02655,No,No,Yes,0.606728865,5' UTR
+DWV-B,Allyson,345,350,Deletion_forward,M,28,DItector,96843,0.00029,No,No,Yes,0,5' UTR
+DWV-B,Allyson,4787,4787,Insertion_reverse,M,40,ViReMa,96843,0.00041,No,No,Yes,0.758503462,Uncharacterized middle region
+DWV-B,Allyson,2970,2972,Deletion_reverse,M,6,ViReMa,96843,0.00006,No,Yes,No,0.598125769,VP1
+DWV-B,Allyson,3454,3456,Deletion_reverse,M,5,ViReMa,96843,0.00005,No,Yes,No,0.746400104,VP1
+DWV-B,Allyson,4511,4514,Deletion_reverse,M,5,ViReMa,96843,0.00005,No,Yes,No,0,VP2
+DWV-B,Allyson,4565,4565,Insertion_reverse,M,7,ViReMa,96843,0.00007,No,Yes,No,0.581098508,Uncharacterized middle region
+DWV-B,Allyson,6592,6659,Insertion_reverse,M,5,ViReMa,96843,0.00005,No,Yes,No,0.804043302,Uncharacterized middle region
+DWV-B,Allyson,6665,6598,Insertion_forward,M,5,DItector,96843,0.00005,No,Yes,No,0,Uncharacterized middle region
+DWV-B,Allyson,272,274,Deletion_reverse,N,1658,ViReMa,82948,0.01999,No,No,Yes,0,5' UTR
+DWV-B,Allyson,345,350,Deletion_forward,N,5,DItector,82948,0.00006,No,No,Yes,0,5' UTR
+DWV-B,Allyson,3826,5252,Insertion_forward,N,29,DItector,82948,0.00035,No,No,Yes,0,"VP2, Helicase"
+DWV-B,Allyson,4787,4787,Insertion_reverse,N,23,ViReMa,82948,0.00028,No,No,Yes,0.697873534,Uncharacterized middle region
+DWV-B,Allyson,3826,5252,Insertion_forward,P,21,DItector,109003,0.00019,No,No,No,0,"VP2, Helicase"
+DWV-B,Allyson,272,274,Deletion_reverse,P,1324,ViReMa,109003,0.01215,No,No,Yes,0,5' UTR
+DWV-B,Allyson,345,359,Deletion_forward,P,6,DItector,109003,0.00006,No,No,Yes,0,5' UTR
+DWV-B,Allyson,4787,4787,Insertion_reverse,P,12,ViReMa,109003,0.00011,No,No,Yes,0.672466434,Uncharacterized middle region
+DWV-B,Arnot,9967,9617,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.77,3C-Pro+RdRp
+DWV-B,Arnot,9903,7166,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,VPg - 3C-Pro+RdRp
+DWV-B,Arnot,9902,5008,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.78,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,9902,2057,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Capsid proteins - 3C-Pro+RdRp
+DWV-B,Arnot,9901,9393,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,3C-Pro+RdRp
+DWV-B,Arnot,9901,5841,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,9779,2031,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.77,VP0- 3C-Pro+RdRp
+DWV-B,Arnot,9685,7142,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-B,Arnot,9675,6724,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-B,Arnot,9661,5454,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,9637,1382,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.78,LP - 3C-Pro+RdRp
+DWV-B,Arnot,9564,6393,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-B,Arnot,9557,8705,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,3C-Pro+RdRp
+DWV-B,Arnot,9518,8671,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,3C-Pro+RdRp
+DWV-B,Arnot,9495,8669,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,3C-Pro+RdRp
+DWV-B,Arnot,9492,8887,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,3C-Pro+RdRp
+DWV-B,Arnot,9492,5377,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.77,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,9468,7287,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.79,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-B,Arnot,9187,8540,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.75,3C-Pro+RdRp
+DWV-B,Arnot,9114,650,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,5'UTR - 3C-Pro+RdRp
+DWV-B,Arnot,9088,9142,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.76,3C-Pro+RdRp
+DWV-B,Arnot,8504,3725,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.78,VP1 - 3C-Pro+RdRp
+DWV-B,Arnot,8457,9421,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.76,3C-Pro+RdRp
+DWV-B,Arnot,8196,4808,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.75,VP3 - 3C-Pro+RdRp
+DWV-B,Arnot,7952,5204,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,7916,7573,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,VPg - 3C-Pro+RdRp
+DWV-B,Arnot,7848,5338,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,7422,8271,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,VPg - 3C-Pro+RdRp
+DWV-B,Arnot,7257,8929,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.76,VPg - 3C-Pro+RdRp
+DWV-B,Arnot,7048,4642,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Unchar mid reg 1 - Unchar mid reg 2
+DWV-B,Arnot,7008,6953,Insertion_forward,13F,5,Both,150226,0.00003,No,Yes,N/A,0.00,Unchar mid reg 2
+DWV-B,Arnot,6998,6943,Insertion_forward,13F,8,Both,150226,0.00005,No,Yes,N/A,0.00,Unchar mid reg 2
+DWV-B,Arnot,6998,6943,Insertion_forward,13F,6,Both,150226,0.00004,No,Yes,N/A,0.00,Unchar mid reg 2
+DWV-B,Arnot,6915,9420,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-B,Arnot,6911,8836,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-B,Arnot,6904,9491,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.78,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-B,Arnot,6859,9256,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-B,Arnot,6229,7911,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,6207,3614,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.80,VP1 - Helicase
+DWV-B,Arnot,6088,8229,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,6058,5301,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase
+DWV-B,Arnot,6055,8983,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,6049,4922,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Unchar mid reg 1 - Helicase
+DWV-B,Arnot,6049,4820,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.75,Unchar mid reg 1 - Helicase
+DWV-B,Arnot,6034,8247,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.76,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,6021,3775,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,VP1 - Helicase
+DWV-B,Arnot,6008,9183,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,5966,6422,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Helicase
+DWV-B,Arnot,5940,3689,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,VP1 - Helicase
+DWV-B,Arnot,5819,5992,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase
+DWV-B,Arnot,5616,4922,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Unchar mid reg 1 - Helicase
+DWV-B,Arnot,5579,9529,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.75,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,5542,3307,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.75,VP1 - Helicase
+DWV-B,Arnot,5542,1485,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.77,LP - Helicase
+DWV-B,Arnot,5526,6364,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Helicase
+DWV-B,Arnot,5464,9598,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.82,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,5463,7723,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,Helicase - VPg
+DWV-B,Arnot,5421,9641,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Helicase - 3C-Pro+RdRp
+DWV-B,Arnot,5415,6101,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase
+DWV-B,Arnot,5415,4595,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,VP3 - Helicase
+DWV-B,Arnot,5317,5404,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Helicase
+DWV-B,Arnot,5264,4945,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Unchar mid reg 1 - Helicase
+DWV-B,Arnot,4983,4946,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.80,Unchar mid reg 1 - Helicase
+DWV-B,Arnot,4941,3755,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,VP1 - Unchar mid reg 1
+DWV-B,Arnot,4865,7964,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,Unchar mid reg 1 - 3C-Pro+RdRp
+DWV-B,Arnot,4864,7977,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.76,Unchar mid reg 1 - 3C-Pro+RdRp
+DWV-B,Arnot,4861,9082,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.76,Unchar mid reg 1 - 3C-Pro+RdRp
+DWV-B,Arnot,4709,7818,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Unchar mid reg 1 - 3C-Pro+RdRp
+DWV-B,Arnot,4709,3606,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,VP1 - 3C-Pro+RdRp
+DWV-B,Arnot,4675,5818,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Unchar mid reg 1 - Helicase
+DWV-B,Arnot,4609,8006,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.78,Unchar mid reg 1 - 3C-Pro+RdRp
+DWV-B,Arnot,4609,4657,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.83,Unchar mid reg 1
+DWV-B,Arnot,4567,5398,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,Unchar mid reg 1 - Helicase
+DWV-B,Arnot,4463,2431,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.77,VP0 - VP3
+DWV-B,Arnot,4429,3125,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.77,VP1 - VP3
+DWV-B,Arnot,4401,3975,Insertion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.77,VP3
+DWV-B,Arnot,4300,4566,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,VP3
+DWV-B,Arnot,4246,2970,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,VP1 - VP3
+DWV-B,Arnot,4217,7941,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,VP3 - 3C-Pro+RdRp
+DWV-B,Arnot,4210,1375,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.75,LP - VP3
+DWV-B,Arnot,4073,1656,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,LP - VP3
+DWV-B,Arnot,3664,6599,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.77,VP1 - Unchar mid reg 2
+DWV-B,Arnot,3259,3798,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,VP1
+DWV-B,Arnot,2918,7701,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,VP1 - VPg
+DWV-B,Arnot,2848,712,Insertion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.76,5'UTR - VP1
+DWV-B,Arnot,2272,7082,Deletion_forward,13F,2,Both,150226,0.00001,No,Yes,N/A,0.77,VP0 - Unchar mid reg 2
+DWV-B,Arnot,1981,6329,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.75,VP0 - Helicase
+DWV-B,Arnot,1495,8646,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.76,LP - 3C-Pro+RdRp
+DWV-B,Arnot,703,1180,Deletion_forward,6H,2,Both,84009,0.00002,No,Yes,N/A,0.77,5'UTR - LP
+DWV-B,Arnot,312,312,Insertion_forward,6H,168,Virema,84009,0.00200,No,No,N/A,0,5'UTR
+DWV-A,Arnot,750,7078,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.73,5'UTR - Unchar mid reg 2
+DWV-A,Arnot,1808,1,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.55,5'UTR - LP
+DWV-A,Arnot,1921,7735,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.60,VP0 - VPg
+DWV-A,Arnot,2007,5909,Deletion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.54,VP0 - Helicase
+DWV-A,Arnot,2200,5003,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.71,VP0 - Unchar mid reg 1
+DWV-A,Arnot,2296,8059,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.73,VP0 - 3C-Pro+RdRp
+DWV-A,Arnot,2588,5416,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.52,VP1 - Helicase
+DWV-A,Arnot,3029,605,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.61,5'UTR - VP1
+DWV-A,Arnot,3510,1,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.65,5'UTR - VP1
+DWV-A,Arnot,3751,9994,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.68,VP1 - 3'UTR
+DWV-A,Arnot,4243,9778,Deletion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.68,VP3 - 3C-Pro+RdRp
+DWV-A,Arnot,4795,190,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.66,5'UTR - Unchar mid reg 1
+DWV-A,Arnot,4881,4078,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.51,VP3 - Unchar mid reg 1
+DWV-A,Arnot,5007,4477,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.78,VP3 - Unchar mid reg 2
+DWV-A,Arnot,5119,7856,Deletion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.80,Helicase - 3C-Pro+RdRp
+DWV-A,Arnot,5372,3031,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.62,VP1 - Helicase
+DWV-A,Arnot,5506,2823,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.53,VP1 - Helicase
+DWV-A,Arnot,5523,756,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.56,5'UTR - Helicase
+DWV-A,Arnot,5529,3045,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.59,VP1 - Helicase
+DWV-A,Arnot,5635,2649,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.57,VP1 - Helicase
+DWV-A,Arnot,5917,9851,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.53,Helicase - 3C-Pro+RdRp
+DWV-A,Arnot,5956,8834,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.52,Helicase - 3C-Pro+RdRp
+DWV-A,Arnot,5959,9961,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.53,Helicase - 3C-Pro+RdRp
+DWV-A,Arnot,6048,2559,Insertion_forward,13E,5,DItector,30797,0.00016,No,Yes,N/A,0.00,VP1 - Helicase
+DWV-A,Arnot,6142,5980,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.65,Helicase
+DWV-A,Arnot,6170,4692,Insertion_forward,13E,5,DItector,30797,0.00016,No,Yes,N/A,0.00,Unchar mid reg 1 - Helicase
+DWV-A,Arnot,6221,2960,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.66,VP1 - Helicase
+DWV-A,Arnot,6223,447,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.71,5'UTR - 3C-Pro+RdRp
+DWV-A,Arnot,6272,7245,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.59,Helicase - Unchar mid reg 2
+DWV-A,Arnot,6280,2730,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.51,VP1 - Helicase
+DWV-A,Arnot,6595,8367,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.68,Helicase - 3C-Pro+RdRp
+DWV-A,Arnot,6632,7846,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.72,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-A,Arnot,6739,5147,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.52,Helicase - Unchar mid reg 2
+DWV-A,Arnot,6760,4956,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.53,Helicase - Unchar mid reg 2
+DWV-A,Arnot,6968,6930,Insertion_forward,13E,5,DItector,30797,0.00016,Yes,Yes,N/A,0.00,Unchar mid reg 2
+DWV-A,Arnot,6968,6930,Insertion_forward,3G,6,DItector,37297,0.00016,Yes,Yes,N/A,0.00,Unchar mid reg 2
+DWV-A,Arnot,7222,4975,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.54,Helicase - Unchar mid reg 2
+DWV-A,Arnot,7223,4368,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.51,VP3 - Unchar mid reg 2
+DWV-A,Arnot,7413,1786,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.65,VP0 - Unchar mid reg 2
+DWV-A,Arnot,7597,7784,Deletion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.54,VPg
+DWV-A,Arnot,7611,9097,Deletion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.51,VPg - 3C-Pro+RdRp
+DWV-A,Arnot,7803,9459,Deletion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.51,3C-Pro+RdRp
+DWV-A,Arnot,7838,8475,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.57,3C-Pro+RdRp
+DWV-A,Arnot,7869,3742,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.66,VP1 - 3C-Pro+RdRp
+DWV-A,Arnot,7899,6294,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.76,Helicase - 3C-Pro+RdRp
+DWV-A,Arnot,8375,2973,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.74,VP1 - 3C-Pro+RdRp
+DWV-A,Arnot,8376,9584,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.64,3C-Pro+RdRp
+DWV-A,Arnot,8465,8469,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.58,3C-Pro+RdRp
+DWV-A,Arnot,8493,4847,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.61,Unchar mid reg 1 - 3C-Pro+RdRp
+DWV-A,Arnot,8515,8238,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.58,3C-Pro+RdRp
+DWV-A,Arnot,8810,7832,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.76,3C-Pro+RdRp
+DWV-A,Arnot,8814,6720,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.63,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-A,Arnot,8814,2137,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.55,VP0 - 3C-Pro+RdRp
+DWV-A,Arnot,8902,921,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.72,5'UTR - 3C-Pro+RdRp
+DWV-A,Arnot,8937,4935,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.52,Helicase - 3C-Pro+RdRp
+DWV-A,Arnot,8956,9772,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.51,3C-Pro+RdRp
+DWV-A,Arnot,9077,8366,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.52,3C-Pro+RdRp
+DWV-A,Arnot,9384,756,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.54,5'UTR - 3C-Pro+RdRp
+DWV-A,Arnot,9500,9556,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.60,3C-Pro+RdRp
+DWV-A,Arnot,9546,9936,Deletion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.62,3C-Pro+RdRp - 3'UTR
+DWV-A,Arnot,9596,9172,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.51,3C-Pro+RdRp
+DWV-A,Arnot,9608,4518,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.74,VP3 - 3C-Pro+RdRp
+DWV-A,Arnot,9611,3693,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.68,VP1 - 3C-Pro+RdRp
+DWV-A,Arnot,9612,852,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.60,5'UTR - 3C-Pro+RdRp
+DWV-A,Arnot,9614,3305,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.69,VP1 - 3C-Pro+RdRp
+DWV-A,Arnot,9645,9008,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.70,3C-Pro+RdRp
+DWV-A,Arnot,9659,8941,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.51,3C-Pro+RdRp
+DWV-A,Arnot,9764,8858,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.59,3C-Pro+RdRp
+DWV-A,Arnot,9786,9423,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.71,3C-Pro+RdRp
+DWV-A,Arnot,9787,9661,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.50,3C-Pro+RdRp
+DWV-A,Arnot,9789,6860,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.71,Unchar mid reg 2 - 3C-Pro+RdRp
+DWV-A,Arnot,9789,6127,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.50,Helicase - 3C-Pro+RdRp
+DWV-A,Arnot,9794,4454,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.59,VP3 - 3C-Pro+RdRp
+DWV-A,Arnot,9798,2857,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.62,VP1 - 3C-Pro+RdRp
+DWV-A,Arnot,9799,2356,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.83,VP1 - 3C-Pro+RdRp
+DWV-A,Arnot,9800,1,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.65,5'UTR - 3C-Pro+RdRp
+DWV-A,Arnot,9800,9954,Deletion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.51,3C-Pro+RdRp
+DWV-A,Arnot,9802,7752,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.53,3C-Pro+RdRp
+DWV-A,Arnot,9945,7711,Insertion_forward,13E,2,Both,30797,0.00006,No,Yes,N/A,0.57,3C-Pro+RdRp - 3'UTR
+DWV-A,Arnot,10022,5951,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.71,Helicase - 3'UTR
+DWV-A,Arnot,10056,6861,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.59,Unchar mid reg 2 - 3'UTR
+DWV-A,Arnot,10072,1666,Insertion_forward,3G,2,Both,37297,0.00005,No,Yes,N/A,0.51,LP - 3'UTR

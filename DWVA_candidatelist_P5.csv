@@ -1,0 +1,23 @@
+BP,RI,Std.err,Mutation type,Sense,Lineage,DVG read count,Which program?,WT virus read count,% of the WT virus that is this candidate,Unique to this lineage?,Seen in P1 in this lineage?,pReal value,Genomic location affected
+336,339,,Insertion,+,C,5,DItector,80859,6.68449E-05,Yes,No,0,5' UTR
+4521,1745,,Insertion,+,C,24,DItector,71770.5,0.000334399,No,No,0,All capsid proteins
+4524,1748,,Insertion,+,C,31,DItector,74800,0.000414439,No,No,0,All capsid proteins
+4525,1749,,Insertion,+,C,22,DItector,74800,0.000294118,No,No,0,All capsid proteins
+4520,1744,,Insertion,+,C,36,DItector,74800,0.000481283,No,No,0,All capsid proteins
+954,10039,,Deletion,+,C,15,DItector,71770.5,0.000209,Yes,No,0,Everything but the 5' and 3' UTRs
+4524,1748,,Insertion,+,E,11,DItector,41834,0.000262944,No,Yes,0,All capsid proteins
+4521,1745,,Insertion,+,E,7,DItector,51816,0.000135093,No,Yes,0,All capsid proteins
+4143,4140,,Deletion,-,K,5,ViReMa,64353,7.76965E-05,Yes,No,0,VP2
+4525,1749,,Insertion,+,K,5,DItector,35292,0.000141675,No,No,0,All capsid proteins
+4524,1748,,Insertion,+,K,9,DItector,72813,0.000123604,No,Yes,0,All capsid proteins
+4520,1744,,Insertion,+,K,5,DItector,52125,9.59233E-05,No,Yes,0,All capsid proteins
+4520,1744,,Insertion,+,L,15,DItector,94147,0.000159325,No,Yes,0,All capsid proteins
+4524,1748,,Insertion,+,L,49,DItector,87450.25,0.000560319,No,Yes,0,All capsid proteins
+4525,1749,,Insertion,+,L,11,DItector,102678,0.000107131,No,Yes,0,All capsid proteins
+4521,1745,,Insertion,+,L,11,DItector,85830.5,0.00012816,No,Yes,0,All capsid proteins
+6930,6968,,Insertion,+,L,10,DItector,94862,0.000105416,No,No,0,Uncharacterized middle region
+4521,1745,,Insertion,+,M,6,DItector,71999,8.33345E-05,No,No,0,All capsid proteins
+4524,1748,,Insertion,+,M,14,DItector,75231,0.000186093,No,Yes,0,All capsid proteins
+4520,1744,,Insertion,+,M,6,DItector,78463,7.64692E-05,No,No,0,All capsid proteins
+4525,1749,,Insertion,+,M,5,DItector,78463,6.37243E-05,No,No,0,All capsid proteins
+6930,6968,,Insertion,+,P,7,DItector,58274,0.000120122,No,No,0,Uncharacterized middle region

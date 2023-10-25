@@ -1,0 +1,121 @@
+passage,lineage,rep,BP,RI,sense,DVG_type,length_dvg,read_counts_virema,pBP_virema,pRI_virema,rpht_virema,read_counts_ditector,pBP_ditector,pRI_ditector,rpht_ditector,Genomic_location,DWV_strain
+Five,C,One,274,272,Neg,Deletion_reverse,10136,537,0.6082,0.6000,335,0,0,0.5617,0,5' UTR,DWVB
+Five,C,One,4787,4787,Neg,Insertion_reverse,10138,7,0.0041,0.0041,4,0,0,0.0028,0,Uncharacterized middle region,DWVB
+Five,C,One,349,1101,Pos,Deletion_forward,9386,0,0,0,0,16,0.0263,0,10,5' UTR,DWVB
+Five,C,One,334,340,Pos,Deletion_forward,10132,0,0,0,0,5,0.0090,0,3,5' UTR,DWVB
+Five,C,Two,274,272,Neg,Deletion_reverse,10136,315,0.6081,0.6093,341,0,0,0.5748,0,5' UTR,DWVB
+Five,C,Two,4787,4787,Neg,Insertion_reverse,10138,5,0.0055,0.0055,5,0,0,0.0031,0,Uncharacterized middle region,DWVB
+Five,C,Two,349,1101,Pos,Deletion_forward,9386,0,0,0,0,5,0.0155,0,5,5' UTR,DWVB
+Five,C,Three,274,272,Neg,Deletion_reverse,10136,336,0.6032,0.6054,390,0,0,0.5676,0,5' UTR,DWVB
+Five,C,Three,4787,4787,Neg,Insertion_reverse,10138,5,0.0065,0.0065,6,0,0,0.0037,0,Uncharacterized middle region,DWVB
+Five,C,Three,349,1101,Pos,Deletion_forward,9386,0,0,0,0,7,0.0182,0,8,5' UTR,DWVB
+Five,E,One,274,272,Neg,Deletion_reverse,10136,204,0.6277,0.6395,385,0,0,0.6000,0,5' UTR,DWVB
+Five,E,One,349,1101,Pos,Deletion_forward,9386,0,0,0,0,8,0.0335,0,15,5' UTR,DWVB
+Five,E,Two,274,272,Neg,Deletion_reverse,10136,229,0.5363,0.5599,323,0,0,0.5169,0,5' UTR,DWVB
+Five,E,Two,4787,4787,Neg,Insertion_reverse,10138,5,0.0064,0.0064,7,0,0,0.0040,0,Uncharacterized middle region,DWVB
+Five,E,Two,349,1101,Pos,Deletion_forward,9386,0,0,0,0,8,0.0263,0,11,5' UTR,DWVB
+Five,E,Three,274,272,Neg,Deletion_reverse,10136,73,0.5984,0.5887,317,0,0,0.5573,0,5' UTR,DWVB
+Five,J,One,274,272,Neg,Deletion_reverse,10136,459,0.5557,0.5598,358,0,0,0.5228,0,5' UTR,DWVB
+Five,J,One,8341,8341,Neg,Insertion_reverse,10138,52,0.0492,0.0492,41,0,0,0.0365,0,3C Pro/RdRp,DWVB
+Five,J,One,8341,8342,Neg,Insertion_reverse,10139,13,0.0123,0.0129,10,0,0,0.0091,0,3C Pro/RdRp,DWVB
+Five,J,One,4787,4787,Neg,Insertion_reverse,10138,7,0.0049,0.0049,5,0,0,0.0030,0,Uncharacterized middle region,DWVB
+Five,J,One,8341,8343,Neg,Insertion_reverse,10140,5,0.0047,0.0051,4,0,0,0.0035,0,3C Pro/RdRp,DWVB
+Five,J,One,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,7,0.0025,0,5,"VP2, Helicase",DWVB
+Five,J,Two,274,272,Neg,Deletion_reverse,10136,343,0.5532,0.5804,338,0,0,0.5310,0,5' UTR,DWVB
+Five,J,Two,8341,8341,Neg,Insertion_reverse,10138,19,0.0268,0.0268,19,0,0,0.0165,0,3C Pro/RdRp,DWVB
+Five,J,Two,343,348,Pos,Deletion_forward,10133,0,0,0,0,7,0.0144,0,7,5' UTR,DWVB
+Five,J,Three,274,272,Neg,Deletion_reverse,10136,497,0.6091,0.6106,367,0,0,0.5772,0,5' UTR,DWVB
+Five,J,Three,8341,8341,Neg,Insertion_reverse,10138,27,0.0314,0.0314,20,0,0,0.0191,0,3C Pro/RdRp,DWVB
+Five,J,Three,8341,8342,Neg,Insertion_reverse,10139,6,0.0070,0.0072,4,0,0,0.0042,0,3C Pro/RdRp,DWVB
+Five,J,Three,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,17,0.0050,0,12,"VP2, Helicase",DWVB
+Five,J,Three,343,348,Pos,Deletion_forward,10133,0,0,0,0,6,0.0097,0,4,5' UTR,DWVB
+Five,K,One,274,272,Neg,Deletion_reverse,10136,509,0.6778,0.6742,393,0,0,0.6363,0,5' UTR,DWVB
+Five,K,One,343,348,Pos,Deletion_forward,10133,0,0,0,0,7,0.0146,0,5,5' UTR,DWVB
+Five,K,One,345,350,Pos,Deletion_forward,10133,0,0,0,0,5,0.0102,0,4,5' UTR,DWVB
+Five,K,One,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,5,0.0018,0,4,"VP2, Helicase",DWVB
+Five,K,Two,274,272,Neg,Deletion_reverse,10136,349,0.6266,0.6155,434,0,0,0.5885,0,5' UTR,DWVB
+Five,K,Two,4787,4787,Neg,Insertion_reverse,10138,6,0.0067,0.0067,7,0,0,0.0044,0,Uncharacterized middle region,DWVB
+Five,K,Three,274,272,Neg,Deletion_reverse,10136,252,0.6284,0.6014,391,0,0,0.5806,0,5' UTR,DWVB
+Five,K,Four,274,272,Neg,Deletion_reverse,10136,177,0.5566,0.5514,363,0,0,0.5221,0,5' UTR,DWVB
+Five,K,Five,274,272,Neg,Deletion_reverse,10136,263,0.6337,0.6247,382,0,0,0.5937,0,5' UTR,DWVB
+Five,K,Six,274,272,Neg,Deletion_reverse,10136,564,0.6690,0.6566,419,0,0,0.6295,0,5' UTR,DWVB
+Five,K,Six,4787,4787,Neg,Insertion_reverse,10138,9,0.0074,0.0074,7,0,0,0.0047,0,Uncharacterized middle region,DWVB
+Five,K,Six,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,10,0.0033,0,7,"VP2, Helicase",DWVB
+Five,K,Six,343,348,Pos,Deletion_forward,10133,0,0,0,0,6,0.0117,0,4,5' UTR,DWVB
+Five,K,Seven,274,272,Neg,Deletion_reverse,10136,147,0.6447,0.6622,390,0,0,0.6100,0,5' UTR,DWVB
+Five,K,Eight,274,272,Neg,Deletion_reverse,10136,183,0.5414,0.5562,298,0,0,0.5097,0,5' UTR,DWVB
+Five,K,Eight,4787,4787,Neg,Insertion_reverse,10138,5,0.0075,0.0075,8,0,0,0.0044,0,Uncharacterized middle region,DWVB
+Five,L,One,274,272,Neg,Deletion_reverse,10136,27,0.6136,0.6136,404,0,0,0.5745,0,5' UTR,DWVB
+Five,L,Two,274,272,Neg,Deletion_reverse,10136,782,0.5763,0.5814,388,0,0,0.5446,0,5' UTR,DWVB
+Five,L,Two,4787,4787,Neg,Insertion_reverse,10138,9,0.0051,0.0051,4,0,0,0.0030,0,Uncharacterized middle region,DWVB
+Five,L,Two,3401,3398,Neg,Deletion_reverse,10135,6,0.0018,0.0022,3,0,0,0.0018,0,VP1,DWVB
+Five,L,Two,3614,3611,Neg,Deletion_reverse,10135,5,0.0039,0.0040,2,0,0,0.0038,0,VP1,DWVB
+Five,L,Two,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,19,0.0041,0,9,"VP2, Helicase",DWVB
+Five,L,Two,343,348,Pos,Deletion_forward,10133,0,0,0,0,6,0.0071,0,3,5' UTR,DWVB
+Five,L,Three,274,272,Neg,Deletion_reverse,10136,341,0.5655,0.5829,348,0,0,0.5413,0,5' UTR,DWVB
+Five,L,Three,4787,4787,Neg,Insertion_reverse,10138,6,0.0056,0.0056,6,0,0,0.0030,0,Uncharacterized middle region,DWVB
+Five,L,Three,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,6,0.0029,0,6,"VP2, Helicase",DWVB
+Five,L,Four,274,272,Neg,Deletion_reverse,10136,5,0.4167,0.3571,325,0,0,0.3571,0,5' UTR,DWVB
+Five,L,Five,274,272,Neg,Deletion_reverse,10136,369,0.6318,0.6519,319,0,0,0.5829,0,5' UTR,DWVB
+Five,L,Five,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,9,0.0025,0,7,"VP2, Helicase",DWVB
+Five,L,Five,346,351,Pos,Deletion_forward,10133,0,0,0,0,5,0.0072,0,4,5' UTR,DWVB
+Five,L,Six,274,272,Neg,Deletion_reverse,10136,487,0.5522,0.5643,368,0,0,0.5265,0,5' UTR,DWVB
+Five,L,Six,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,14,0.0048,0,10,"VP2, Helicase",DWVB
+Five,L,Six,337,342,Pos,Deletion_forward,10133,0,0,0,0,5,0.0192,0,4,5' UTR,DWVB
+Five,L,Seven,274,272,Neg,Deletion_reverse,10136,811,0.5937,0.5877,407,0,0,0.5562,0,5' UTR,DWVB
+Five,L,Seven,4645,4645,Neg,Insertion_reverse,10138,8,0.0040,0.0040,4,0,0,0.0016,0,Uncharacterized middle region,DWVB
+Five,L,Seven,4787,4787,Neg,Insertion_reverse,10138,7,0.0032,0.0032,4,0,0,0.0021,0,Uncharacterized middle region,DWVB
+Five,L,Seven,1571,1568,Neg,Deletion_reverse,10135,5,0.0025,0.0026,3,0,0,0.0026,0,LP,DWVB
+Five,L,Seven,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,13,0.0030,0,6,"VP2, Helicase",DWVB
+Five,L,Seven,337,342,Pos,Deletion_forward,10133,0,0,0,0,5,0.0149,0,2,5' UTR,DWVB
+Five,L,Eight,274,272,Neg,Deletion_reverse,10136,614,0.5628,0.5602,382,0,0,0.5330,0,5' UTR,DWVB
+Five,L,Eight,4787,4787,Neg,Insertion_reverse,10138,6,0.0042,0.0042,4,0,0,0.0023,0,Uncharacterized middle region,DWVB
+Five,L,Eight,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,10,0.0025,0,6,"VP2, Helicase",DWVB
+Five,L,Eight,337,342,Pos,Deletion_forward,10133,0,0,0,0,5,0.0192,0,3,5' UTR,DWVB
+Five,L,Nine,274,272,Neg,Deletion_reverse,10136,64,0.5378,0.5424,359,0,0,0.5039,0,5' UTR,DWVB
+Five,L,Ten,274,272,Neg,Deletion_reverse,10136,61,0.6489,0.6703,453,0,0,0.6354,0,5' UTR,DWVB
+Five,M,One,274,272,Neg,Deletion_reverse,10136,21,0.5250,0.5676,473,0,0,0.4884,0,5' UTR,DWVB
+Five,M,Two,274,272,Neg,Deletion_reverse,10136,78,0.6500,0.6341,391,0,0,0.5909,0,5' UTR,DWVB
+Five,M,Three,274,272,Neg,Deletion_reverse,10136,437,0.6270,0.6464,428,0,0,0.6044,0,5' UTR,DWVB
+Five,M,Three,4787,4787,Neg,Insertion_reverse,10138,8,0.0060,0.0060,8,0,0,0.0044,0,Uncharacterized middle region,DWVB
+Five,M,Three,343,348,Pos,Deletion_forward,10133,0,0,0,0,6,0.0124,0,6,5' UTR,DWVB
+Five,M,Four,274,272,Neg,Deletion_reverse,10136,589,0.6041,0.6041,374,0,0,0.5669,0,5' UTR,DWVB
+Five,M,Four,4645,4645,Neg,Insertion_reverse,10138,7,0.0039,0.0039,4,0,0,0.0017,0,Uncharacterized middle region,DWVB
+Five,M,Four,2972,2970,Neg,Deletion_reverse,10136,6,0.0018,0.0020,4,0,0,0.0018,0,VP1,DWVB
+Five,M,Four,4787,4787,Neg,Insertion_reverse,10138,6,0.0030,0.0030,4,0,0,0.0021,0,Uncharacterized middle region,DWVB
+Five,M,Four,3456,3454,Neg,Deletion_reverse,10136,5,0.0014,0.0014,3,0,0,0.0017,0,VP1,DWVB
+Five,M,Four,343,348,Pos,Deletion_forward,10133,0,0,0,0,5,0.0079,0,3,5' UTR,DWVB
+Five,M,Five,274,272,Neg,Deletion_reverse,10136,32,0.6957,0.7273,537,0,0,0.6809,0,5' UTR,DWVB
+Five,M,Six,274,272,Neg,Deletion_reverse,10136,13,0.6190,0.6500,539,0,0,0.6190,0,5' UTR,DWVB
+Five,M,Seven,274,272,Neg,Deletion_reverse,10136,148,0.5850,0.5873,387,0,0,0.5522,0,5' UTR,DWVB
+Five,M,Nine,274,272,Neg,Deletion_reverse,10136,767,0.6063,0.6156,382,0,0,0.5767,0,5' UTR,DWVB
+Five,M,Nine,4787,4787,Neg,Insertion_reverse,10138,10,0.0039,0.0039,5,0,0,0.0030,0,Uncharacterized middle region,DWVB
+Five,M,Nine,4514,4511,Neg,Deletion_reverse,10135,5,0.0030,0.0033,2,0,0,0.0032,0,VP2,DWVB
+Five,M,Nine,6592,6659,Neg,Insertion_reverse,10205,5,0.0024,0.0015,2,0,0,0.0015,0,Uncharacterized middle region,DWVB
+Five,M,Nine,345,350,Pos,Deletion_forward,10133,0,0,0,0,12,0.0139,0,6,5' UTR,DWVB
+Five,M,Nine,343,348,Pos,Deletion_forward,10133,0,0,0,0,5,0.0058,0,2,5' UTR,DWVB
+Five,M,Nine,6665,6598,Pos,Insertion_forward,10205,0,0,0,0,5,0.0014,0,2,Uncharacterized middle region,DWVB
+Five,M,Ten,274,272,Neg,Deletion_reverse,10136,183,0.5596,0.5648,333,0,0,0.5351,0,5' UTR,DWVB
+Five,M,Ten,4787,4787,Neg,Insertion_reverse,10138,6,0.0083,0.0083,11,0,0,0.0055,0,Uncharacterized middle region,DWVB
+Five,M,Eleven,274,272,Neg,Deletion_reverse,10136,303,0.6121,0.6012,369,0,0,0.5750,0,5' UTR,DWVB
+Five,M,Eleven,4787,4787,Neg,Insertion_reverse,10138,10,0.0101,0.0101,12,0,0,0.0068,0,Uncharacterized middle region,DWVB
+Five,N,One,274,272,Neg,Deletion_reverse,10136,703,0.5948,0.5988,372,0,0,0.5514,0,5' UTR,DWVB
+Five,N,One,4787,4787,Neg,Insertion_reverse,10138,18,0.0070,0.0070,10,0,0,0.0053,0,Uncharacterized middle region,DWVB
+Five,N,One,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,13,0.0033,0,7,"VP2, Helicase",DWVB
+Five,N,Two,274,272,Neg,Deletion_reverse,10136,61,0.5495,0.5648,375,0,0,0.5169,0,5' UTR,DWVB
+Five,N,Three,274,272,Neg,Deletion_reverse,10136,505,0.5568,0.5719,349,0,0,0.5255,0,5' UTR,DWVB
+Five,N,Three,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,10,0.0032,0,7,"VP2, Helicase",DWVB
+Five,N,Four,274,272,Neg,Deletion_reverse,10136,389,0.5806,0.5957,378,0,0,0.5541,0,5' UTR,DWVB
+Five,N,Four,4787,4787,Neg,Insertion_reverse,10138,5,0.0037,0.0037,5,0,0,0.0027,0,Uncharacterized middle region,DWVB
+Five,N,Four,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,6,0.0027,0,6,"VP2, Helicase",DWVB
+Five,N,Four,345,350,Pos,Deletion_forward,10133,0,0,0,0,5,0.0098,0,5,5' UTR,DWVB
+Five,P,One,274,272,Neg,Deletion_reverse,10136,364,0.5909,0.5871,374,0,0,0.5549,0,5' UTR,DWVB
+Five,P,One,4787,4787,Neg,Insertion_reverse,10138,7,0.0060,0.0060,7,0,0,0.0038,0,Uncharacterized middle region,DWVB
+Five,P,One,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,7,0.0032,0,7,"VP2, Helicase",DWVB
+Five,P,One,343,348,Pos,Deletion_forward,10133,0,0,0,0,6,0.0137,0,6,5' UTR,DWVB
+Five,P,Two,274,272,Neg,Deletion_reverse,10136,406,0.5494,0.5577,369,0,0,0.5259,0,5' UTR,DWVB
+Five,P,Two,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,6,0.0024,0,5,"VP2, Helicase",DWVB
+Five,P,Three,274,272,Neg,Deletion_reverse,10136,371,0.5690,0.5833,330,0,0,0.5408,0,5' UTR,DWVB
+Five,P,Three,5252,3826,Pos,Insertion_forward,11564,0,0,0,0,8,0.0031,0,7,"VP2, Helicase",DWVB
+Five,P,Four,274,272,Neg,Deletion_reverse,10136,183,0.5980,0.6203,385,0,0,0.5810,0,5' UTR,DWVB
+Five,P,Four,4787,4787,Neg,Insertion_reverse,10138,5,0.0075,0.0075,11,0,0,0.0054,0,Uncharacterized middle region,DWVB
